@@ -18,8 +18,23 @@ good = []
 bad = []
 csv_rows = []
 
+# 🧠 Port-based proxy type detection
+def detect_scheme(proxy):
+    port = proxy.split(":")[-1]
+    if port in {"9050", "9150", "1080"}:
+        return "socks5"
+    elif port in {"1081", "1084"}:
+        return "socks4"
+    else:
+        return "http"
+
 def test_proxy(proxy):
-    proxy_dict = {"http": f"http://{proxy}", "https": f"http://{proxy}"}
+    scheme = detect_scheme(proxy)
+    proxy_dict = {
+        "http": f"{scheme}://{proxy}",
+        "https": f"{scheme}://{proxy}",
+    }
+
     try:
         # HEAD request for latency
         start_latency = time()
@@ -38,11 +53,12 @@ def test_proxy(proxy):
                 break
         download_time = time() - start_download
 
-        print(f"[+] {proxy} - Latency: {latency:.2f}s - DL 500KB in {download_time:.2f}s")
-        good.append(f"{proxy}  # latency={latency:.2f}s, 500KB={download_time:.2f}s")
-        csv_rows.append([proxy, round(latency, 3), round(download_time, 3)])
+        print(f"[+] {proxy} ({scheme}) - Latency: {latency:.2f}s - DL 500KB in {download_time:.2f}s")
+        good.append(f"{proxy} ({scheme})  # latency={latency:.2f}s, 500KB={download_time:.2f}s")
+        csv_rows.append([proxy, scheme, round(latency, 3), round(download_time, 3)])
+
     except Exception as e:
-        print(f"[x] {proxy} - FAIL: {e}")
+        print(f"[x] {proxy} ({scheme}) - FAIL: {e}")
         bad.append(proxy)
 
 def main():
@@ -60,7 +76,7 @@ def main():
 
     with open(CSV_FILE, "w", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["Proxy", "Latency (s)", "Download Time (s)"])
+        writer.writerow(["Proxy", "Type", "Latency (s)", "Download Time (s)"])
         writer.writerows(csv_rows)
 
     print(f"\n✅ FINISHED: {len(good)} good, {len(bad)} bad proxies")
