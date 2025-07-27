@@ -1,177 +1,148 @@
-23.237.210.82:80 (http)  # latency=0.39s, 500KB=0.69s
-156.244.11.6:2000 (http)  # latency=2.38s, 500KB=2.42s
-8.221.141.88:8081 (http)  # latency=2.44s, 500KB=3.80s
-90.162.35.34:80 (http)  # latency=0.66s, 500KB=1.52s
-124.108.6.20:8085 (http)  # latency=2.03s, 500KB=2.61s
-8.211.49.86:2002 (http)  # latency=2.68s, 500KB=2.37s
-89.31.143.12:80 (http)  # latency=0.31s, 500KB=0.41s
-38.60.109.55:80 (http)  # latency=1.66s, 500KB=2.64s
-160.187.174.214:8080 (http)  # latency=2.55s, 500KB=12.01s
-8.213.215.187:18080 (http)  # latency=5.75s, 500KB=6.78s
-8.220.204.92:9091 (http)  # latency=2.43s, 500KB=4.08s
-47.238.130.212:8004 (http)  # latency=2.43s, 500KB=2.45s
-8.213.222.247:666 (http)  # latency=2.58s, 500KB=2.66s
-8.211.194.78:81 (http)  # latency=2.23s, 500KB=2.30s
-47.252.11.233:5060 (http)  # latency=2.18s, 500KB=2.10s
-47.237.107.41:8080 (http)  # latency=2.52s, 500KB=2.52s
-8.219.229.53:20 (http)  # latency=2.52s, 500KB=2.60s
-8.209.96.245:193 (http)  # latency=8.82s, 500KB=5.48s
-123.141.181.49:5031 (http)  # latency=2.16s, 500KB=2.86s
-8.215.12.103:8080 (http)  # latency=2.56s, 500KB=2.62s
-63.250.32.221:3128 (http)  # latency=1.18s, 500KB=1.08s
-47.251.74.38:5060 (http)  # latency=2.16s, 500KB=2.18s
-8.210.17.35:8081 (http)  # latency=2.47s, 500KB=2.46s
-8.213.156.191:3541 (http)  # latency=2.49s, 500KB=2.49s
-8.213.128.6:6969 (http)  # latency=3.73s, 500KB=3.06s
-103.49.114.195:8080 (http)  # latency=1.64s, 500KB=7.99s
-8.213.128.90:8009 (http)  # latency=4.54s, 500KB=5.08s
-152.53.107.230:80 (http)  # latency=0.39s, 500KB=1.18s
-8.215.3.250:6379 (http)  # latency=2.55s, 500KB=2.58s
-8.220.204.215:8888 (http)  # latency=2.46s, 500KB=2.46s
-47.251.87.199:3129 (http)  # latency=2.24s, 500KB=2.29s
-47.243.92.199:3128 (http)  # latency=1.49s, 500KB=15.41s
-8.211.51.115:10000 (http)  # latency=2.31s, 500KB=2.45s
-5.78.129.53:80 (http)  # latency=1.07s, 500KB=0.66s
-8.221.138.111:5060 (http)  # latency=3.30s, 500KB=3.30s
-155.94.241.132:3128 (http)  # latency=0.49s, 500KB=1.05s
-51.79.99.237:4502 (http)  # latency=1.64s, 500KB=1.70s
-23.247.136.248:80 (http)  # latency=1.98s, 500KB=1.64s
-103.138.145.34:80 (http)  # latency=1.62s, 500KB=6.06s
-8.213.129.15:50001 (http)  # latency=4.31s, 500KB=5.98s
-190.97.238.74:8080 (http)  # latency=0.80s, 500KB=1.40s
-47.238.128.246:3128 (http)  # latency=4.02s, 500KB=8.45s
-78.47.126.220:8888 (http)  # latency=0.96s, 500KB=43.40s
-47.74.157.194:80 (http)  # latency=1.18s, 500KB=2.17s
-8.221.139.222:443 (http)  # latency=2.37s, 500KB=2.99s
-47.91.89.3:5060 (http)  # latency=3.64s, 500KB=3.65s
-155.94.241.133:3128 (http)  # latency=0.68s, 500KB=1.28s
-8.213.195.191:5060 (http)  # latency=2.58s, 500KB=2.57s
-108.141.130.146:80 (http)  # latency=0.45s, 500KB=1.19s
-47.74.46.81:18080 (http)  # latency=2.34s, 500KB=3.76s
-41.191.203.161:80 (http)  # latency=7.22s, 500KB=4.98s
-47.251.87.74:20125 (http)  # latency=2.24s, 500KB=2.20s
-78.46.84.169:8080 (http)  # latency=0.44s, 500KB=2.17s
-147.28.240.218:9401 (http)  # latency=0.71s, 500KB=1.89s
-8.211.42.167:8081 (http)  # latency=3.73s, 500KB=6.62s
-47.90.149.238:9080 (http)  # latency=3.52s, 500KB=3.48s
-37.187.74.125:80 (http)  # latency=0.30s, 500KB=1.07s
-89.117.145.245:3128 (http)  # latency=7.26s, 500KB=14.04s
-47.76.144.139:80 (http)  # latency=2.55s, 500KB=2.44s
-147.28.240.218:443 (http)  # latency=0.56s, 500KB=1.84s
-185.16.61.84:80 (http)  # latency=7.22s, 500KB=3.59s
-47.238.134.126:8181 (http)  # latency=2.43s, 500KB=2.43s
-152.26.229.52:9443 (http)  # latency=0.60s, 500KB=0.90s
-4.195.16.140:80 (http)  # latency=2.00s, 500KB=2.48s
-47.250.51.110:3129 (http)  # latency=2.53s, 500KB=2.51s
-47.238.60.156:2526 (http)  # latency=2.40s, 500KB=2.44s
-41.59.90.168:80 (http)  # latency=1.64s, 500KB=7.17s
-147.28.240.214:9401 (http)  # latency=1.01s, 500KB=2.44s
-47.250.155.254:8181 (http)  # latency=2.56s, 500KB=2.53s
-133.18.234.13:80 (http)  # latency=1.50s, 500KB=2.35s
-155.94.241.130:3128 (http)  # latency=0.62s, 500KB=1.11s
-8.213.222.157:18080 (http)  # latency=2.65s, 500KB=2.63s
-47.252.18.37:10002 (http)  # latency=2.22s, 500KB=2.13s
-102.68.129.54:8080 (http)  # latency=0.61s, 500KB=2.98s
-181.174.164.221:80 (http)  # latency=1.26s, 500KB=2.04s
-47.237.92.86:8080 (http)  # latency=3.10s, 500KB=2.60s
-47.91.120.190:80 (http)  # latency=2.60s, 500KB=2.69s
-170.130.202.134:3128 (http)  # latency=13.48s, 500KB=1.85s
-147.28.240.217:9401 (http)  # latency=0.31s, 500KB=1.96s
-47.91.115.179:9080 (http)  # latency=5.07s, 500KB=2.70s
-38.54.9.151:8080 (http)  # latency=2.77s, 500KB=3.19s
-47.237.2.245:5060 (http)  # latency=2.50s, 500KB=2.60s
-16.163.88.228:80 (http)  # latency=1.22s, 500KB=1.23s
-151.236.24.38:80 (http)  # latency=0.94s, 500KB=1.76s
-23.247.136.254:80 (http)  # latency=1.60s, 500KB=2.67s
-38.147.98.190:8080 (http)  # latency=1.02s, 500KB=2.88s
-47.251.73.54:4145 (http)  # latency=2.16s, 500KB=2.22s
-129.159.38.24:80 (http)  # latency=1.42s, 500KB=2.27s
-91.132.92.150:80 (http)  # latency=0.38s, 500KB=1.62s
-47.90.167.27:8081 (http)  # latency=2.12s, 500KB=2.21s
-156.244.0.116:80 (http)  # latency=2.59s, 500KB=2.57s
-195.88.71.201:8888 (http)  # latency=0.47s, 500KB=12.21s
-212.127.95.235:8081 (http)  # latency=0.72s, 500KB=8.86s
-27.71.228.47:3128 (http)  # latency=1.49s, 500KB=3.08s
-109.71.254.4:80 (http)  # latency=0.49s, 500KB=4.26s
-118.70.151.55:1080 (socks5)  # latency=1.67s, 500KB=7.44s
-47.91.121.127:8081 (http)  # latency=2.56s, 500KB=2.67s
-192.73.244.36:80 (http)  # latency=8.20s, 500KB=8.40s
-103.86.109.38:80 (http)  # latency=0.76s, 500KB=2.50s
-113.108.13.120:4433 (http)  # latency=9.74s, 500KB=26.91s
-147.28.240.215:9401 (http)  # latency=0.40s, 500KB=1.75s
-143.42.66.91:80 (http)  # latency=2.65s, 500KB=3.56s
-155.94.241.134:3128 (http)  # latency=0.61s, 500KB=1.19s
-155.94.241.131:3128 (http)  # latency=0.37s, 500KB=1.22s
-8.215.15.163:104 (http)  # latency=2.51s, 500KB=2.61s
-4.245.123.244:80 (http)  # latency=0.39s, 500KB=1.03s
-154.118.231.30:80 (http)  # latency=3.92s, 500KB=5.07s
-141.98.153.86:80 (http)  # latency=0.48s, 500KB=1.15s
-147.28.240.218:80 (http)  # latency=0.43s, 500KB=1.51s
-113.160.132.195:8080 (http)  # latency=8.18s, 500KB=5.32s
-35.234.154.79:10004 (http)  # latency=7.52s, 500KB=8.44s
-78.47.127.91:80 (http)  # latency=0.64s, 500KB=1.20s
-54.236.37.53:80 (http)  # latency=1.87s, 500KB=1.80s
-181.215.253.118:5001 (http)  # latency=3.04s, 500KB=3.10s
-159.65.245.255:80 (http)  # latency=4.01s, 500KB=3.65s
-158.255.212.55:9745 (http)  # latency=1.11s, 500KB=2.14s
-158.255.212.55:10434 (http)  # latency=1.11s, 500KB=2.14s
-158.255.212.55:11857 (http)  # latency=1.03s, 500KB=2.18s
-146.70.164.210:1080 (socks5)  # latency=0.89s, 500KB=1.74s
-161.35.31.237:1080 (socks5)  # latency=1.91s, 500KB=2.30s
-57.129.81.201:1080 (socks5)  # latency=1.92s, 500KB=3.87s
-185.50.192.196:1080 (socks5)  # latency=5.42s, 500KB=11.22s
-78.80.228.150:80 (http)  # latency=0.47s, 500KB=2.05s
-211.75.95.66:3128 (http)  # latency=1.23s, 500KB=0.47s
-152.53.168.53:54155 (http)  # latency=1.72s, 500KB=3.11s
-89.58.45.94:38335 (http)  # latency=3.02s, 500KB=5.04s
-123.141.181.31:5031 (http)  # latency=1.88s, 500KB=3.26s
-152.53.168.53:55521 (http)  # latency=2.24s, 500KB=3.02s
-20.204.43.57:80 (http)  # latency=2.23s, 500KB=4.76s
-89.58.45.94:34292 (http)  # latency=2.43s, 500KB=3.44s
-45.186.6.104:3128 (http)  # latency=1.17s, 500KB=3.89s
-89.58.45.94:44416 (http)  # latency=2.39s, 500KB=3.41s
-89.58.45.94:41532 (http)  # latency=1.32s, 500KB=6.58s
-185.59.100.55:1080 (socks5)  # latency=0.96s, 500KB=2.46s
-18.60.146.88:57355 (http)  # latency=0.58s, 500KB=0.55s
-104.248.197.67:1080 (socks5)  # latency=1.06s, 500KB=1.37s
-64.227.131.240:1080 (socks5)  # latency=6.80s, 500KB=7.33s
-89.58.45.94:36989 (http)  # latency=1.18s, 500KB=2.60s
-159.65.128.194:1080 (socks5)  # latency=1.43s, 500KB=2.80s
-104.248.203.234:1080 (socks5)  # latency=4.79s, 500KB=5.52s
-143.110.217.153:1080 (socks5)  # latency=0.56s, 500KB=1.11s
-206.189.57.182:1080 (socks5)  # latency=3.94s, 500KB=4.84s
-134.199.159.23:1080 (socks5)  # latency=2.02s, 500KB=3.10s
-143.110.190.60:1080 (socks5)  # latency=5.27s, 500KB=7.54s
-8.213.134.213:30000 (http)  # latency=4.87s, 500KB=7.82s
-154.205.147.234:1080 (socks5)  # latency=6.50s, 500KB=6.48s
-213.108.172.244 (http)  # latency=0.80s, 500KB=0.43s
-178.159.124.54 (http)  # latency=0.44s, 500KB=0.48s
-163.172.162.184 (http)  # latency=0.34s, 500KB=0.43s
-212.47.251.132 (http)  # latency=0.31s, 500KB=0.43s
-190.61.45.92 (http)  # latency=0.35s, 500KB=0.46s
-143.42.66.91 (http)  # latency=2.61s, 500KB=2.16s
-163.172.140.107 (http)  # latency=0.28s, 500KB=0.26s
-163.172.176.95 (http)  # latency=0.36s, 500KB=0.41s
-192.73.244.36 (http)  # latency=4.81s, 500KB=8.58s
-163.172.153.82 (http)  # latency=0.35s, 500KB=0.44s
-212.47.235.205 (http)  # latency=0.26s, 500KB=0.29s
-51.15.226.238 (http)  # latency=0.38s, 500KB=0.32s
-167.172.253.162 (http)  # latency=0.20s, 500KB=0.22s
-163.172.144.96 (http)  # latency=0.24s, 500KB=0.22s
-163.172.146.42 (http)  # latency=0.36s, 500KB=0.38s
-188.235.135.15 (http)  # latency=0.44s, 500KB=0.38s
-212.47.226.206 (http)  # latency=0.25s, 500KB=0.35s
-51.158.103.0 (http)  # latency=0.31s, 500KB=0.25s
-51.158.70.246 (http)  # latency=0.51s, 500KB=0.60s
-163.172.185.252 (http)  # latency=0.30s, 500KB=0.33s
-163.172.190.59 (http)  # latency=0.39s, 500KB=0.23s
-212.47.237.84 (http)  # latency=0.44s, 500KB=0.38s
-51.158.70.181 (http)  # latency=0.37s, 500KB=0.23s
-51.15.210.190 (http)  # latency=0.26s, 500KB=0.25s
-51.158.105.157 (http)  # latency=0.34s, 500KB=0.34s
-163.172.166.240 (http)  # latency=0.46s, 500KB=0.25s
-185.137.122.146 (http)  # latency=0.30s, 500KB=0.41s
-51.158.70.223 (http)  # latency=0.40s, 500KB=0.32s
-51.158.117.213 (http)  # latency=0.36s, 500KB=0.45s
-212.47.248.107 (http)  # latency=0.55s, 500KB=0.45s
-198.49.68.80 (http)  # latency=2.17s, 500KB=150.12s
+156.244.11.6:2000 (http)  # latency=2.48s, 10MB=2.54s, speed=3.935MB/s, score=1.585
+23.237.210.82:80 (http)  # latency=1.23s, 10MB=3.14s, speed=3.182MB/s, score=2.58
+8.221.141.88:8081 (http)  # latency=4.49s, 10MB=3.84s, speed=2.607MB/s, score=0.58
+90.162.35.34:80 (http)  # latency=1.21s, 10MB=5.26s, speed=1.9MB/s, score=1.568
+89.31.143.12:80 (http)  # latency=0.61s, 10MB=0.70s, speed=14.236MB/s, score=23.398
+8.213.215.187:18080 (http)  # latency=3.95s, 10MB=3.97s, speed=2.516MB/s, score=0.636
+124.108.6.20:8085 (http)  # latency=2.70s, 10MB=13.60s, speed=0.735MB/s, score=0.272
+8.220.204.92:9091 (http)  # latency=2.67s, 10MB=2.52s, speed=3.964MB/s, score=1.485
+164.163.42.22:10000 (http)  # latency=1.83s, 10MB=6.70s, speed=1.494MB/s, score=0.816
+8.220.205.172:45 (http)  # latency=3.91s, 10MB=3.95s, speed=2.533MB/s, score=0.648
+47.252.11.233:5060 (http)  # latency=2.29s, 10MB=2.34s, speed=4.268MB/s, score=1.867
+164.163.42.29:10000 (http)  # latency=1.05s, 10MB=5.64s, speed=1.774MB/s, score=1.694
+8.219.229.53:20 (http)  # latency=2.60s, 10MB=2.80s, speed=3.573MB/s, score=1.376
+8.213.197.208:8000 (http)  # latency=12.58s, 10MB=6.90s, speed=1.449MB/s, score=0.115
+47.251.74.38:5060 (http)  # latency=2.35s, 10MB=2.49s, speed=4.022MB/s, score=1.709
+8.215.12.103:8080 (http)  # latency=4.59s, 10MB=4.11s, speed=2.433MB/s, score=0.53
+8.213.156.191:3541 (http)  # latency=2.50s, 10MB=2.48s, speed=4.027MB/s, score=1.612
+8.220.204.215:8888 (http)  # latency=3.30s, 10MB=2.65s, speed=3.78MB/s, score=1.146
+47.251.87.199:3129 (http)  # latency=3.33s, 10MB=2.64s, speed=3.791MB/s, score=1.138
+5.78.129.53:80 (http)  # latency=1.64s, 10MB=0.81s, speed=12.409MB/s, score=7.585
+92.67.186.210:80 (http)  # latency=4.99s, 10MB=3.04s, speed=3.293MB/s, score=0.659
+8.211.195.139:9080 (http)  # latency=3.74s, 10MB=9.64s, speed=1.038MB/s, score=0.277
+8.211.51.115:10000 (http)  # latency=3.87s, 10MB=3.25s, speed=3.078MB/s, score=0.796
+8.221.138.111:5060 (http)  # latency=3.73s, 10MB=3.84s, speed=2.601MB/s, score=0.698
+51.79.99.237:4502 (http)  # latency=1.68s, 10MB=5.29s, speed=1.892MB/s, score=1.123
+8.213.129.15:50001 (http)  # latency=2.87s, 10MB=2.80s, speed=3.57MB/s, score=1.244
+8.215.3.250:6379 (http)  # latency=6.17s, 10MB=8.51s, speed=1.175MB/s, score=0.19
+8.211.194.85:144 (http)  # latency=3.69s, 10MB=3.62s, speed=2.763MB/s, score=0.749
+47.238.128.246:3128 (http)  # latency=3.88s, 10MB=4.07s, speed=2.459MB/s, score=0.634
+190.97.238.74:8080 (http)  # latency=0.88s, 10MB=4.49s, speed=2.229MB/s, score=2.539
+172.104.155.203:3128 (http)  # latency=1.32s, 10MB=5.71s, speed=1.751MB/s, score=1.322
+47.74.157.194:80 (http)  # latency=1.85s, 10MB=5.86s, speed=1.706MB/s, score=0.924
+47.91.89.3:5060 (http)  # latency=5.74s, 10MB=3.70s, speed=2.703MB/s, score=0.471
+108.141.130.146:80 (http)  # latency=0.55s, 10MB=3.08s, speed=3.245MB/s, score=5.947
+8.213.195.191:5060 (http)  # latency=5.94s, 10MB=4.11s, speed=2.434MB/s, score=0.41
+47.74.46.81:18080 (http)  # latency=4.86s, 10MB=6.55s, speed=1.527MB/s, score=0.314
+47.251.87.74:20125 (http)  # latency=4.09s, 10MB=3.45s, speed=2.896MB/s, score=0.707
+78.46.84.169:8080 (http)  # latency=1.43s, 10MB=4.15s, speed=2.412MB/s, score=1.687
+8.211.42.167:8081 (http)  # latency=3.85s, 10MB=4.10s, speed=2.437MB/s, score=0.633
+147.28.240.218:9401 (http)  # latency=0.64s, 10MB=6.33s, speed=1.58MB/s, score=2.475
+188.132.222.11:8080 (http)  # latency=8.79s, 10MB=28.52s, speed=0.351MB/s, score=0.04
+47.76.144.139:80 (http)  # latency=4.03s, 10MB=3.86s, speed=2.591MB/s, score=0.643
+220.116.142.217:80 (http)  # latency=2.30s, 10MB=14.09s, speed=0.71MB/s, score=0.309
+147.28.240.218:443 (http)  # latency=1.03s, 10MB=6.28s, speed=1.593MB/s, score=1.549
+152.26.229.52:9443 (http)  # latency=0.60s, 10MB=3.80s, speed=2.63MB/s, score=4.393
+47.250.51.110:3129 (http)  # latency=2.53s, 10MB=2.78s, speed=3.596MB/s, score=1.419
+4.195.16.140:80 (http)  # latency=2.30s, 10MB=4.78s, speed=2.091MB/s, score=0.911
+185.16.61.84:80 (http)  # latency=0.59s, 10MB=20.47s, speed=0.489MB/s, score=0.828
+147.28.240.214:9401 (http)  # latency=0.31s, 10MB=3.95s, speed=2.531MB/s, score=8.237
+47.250.155.254:8181 (http)  # latency=2.59s, 10MB=2.73s, speed=3.668MB/s, score=1.419
+47.252.18.37:10002 (http)  # latency=4.11s, 10MB=2.12s, speed=4.721MB/s, score=1.149
+8.213.222.157:18080 (http)  # latency=4.04s, 10MB=4.10s, speed=2.44MB/s, score=0.603
+37.187.74.125:80 (http)  # latency=0.72s, 10MB=32.68s, speed=0.306MB/s, score=0.422
+133.18.234.13:80 (http)  # latency=1.13s, 10MB=33.87s, speed=0.295MB/s, score=0.261
+47.237.92.86:8080 (http)  # latency=2.54s, 10MB=2.52s, speed=3.974MB/s, score=1.564
+170.130.202.134:3128 (http)  # latency=5.58s, 10MB=4.05s, speed=2.467MB/s, score=0.442
+147.28.240.217:9401 (http)  # latency=0.42s, 10MB=4.30s, speed=2.324MB/s, score=5.598
+38.54.9.151:8080 (http)  # latency=2.60s, 10MB=2.57s, speed=3.889MB/s, score=1.496
+8.208.90.194:8088 (http)  # latency=4.50s, 10MB=4.35s, speed=2.3MB/s, score=0.512
+149.129.226.9:20 (http)  # latency=5.37s, 10MB=3.94s, speed=2.536MB/s, score=0.472
+16.163.88.228:80 (http)  # latency=0.68s, 10MB=0.83s, speed=12.121MB/s, score=17.94
+8.213.128.90:2019 (http)  # latency=4.38s, 10MB=2.91s, speed=3.431MB/s, score=0.783
+47.237.2.245:5060 (http)  # latency=3.94s, 10MB=2.49s, speed=4.013MB/s, score=1.017
+151.236.24.38:80 (http)  # latency=0.68s, 10MB=3.27s, speed=3.063MB/s, score=4.485
+8.243.67.190:8080 (http)  # latency=0.96s, 10MB=8.26s, speed=1.21MB/s, score=1.261
+23.247.136.254:80 (http)  # latency=0.99s, 10MB=2.39s, speed=4.179MB/s, score=4.201
+47.251.73.54:4145 (http)  # latency=2.17s, 10MB=2.16s, speed=4.632MB/s, score=2.131
+129.159.38.24:80 (http)  # latency=1.44s, 10MB=3.61s, speed=2.771MB/s, score=1.925
+91.132.92.150:80 (http)  # latency=0.54s, 10MB=3.42s, speed=2.926MB/s, score=5.455
+51.75.206.209:80 (http)  # latency=5.08s, 10MB=9.00s, speed=1.111MB/s, score=0.219
+51.159.159.73:80 (http)  # latency=0.44s, 10MB=2.62s, speed=3.812MB/s, score=8.615
+38.147.98.190:8080 (http)  # latency=1.59s, 10MB=18.30s, speed=0.547MB/s, score=0.344
+156.244.0.116:80 (http)  # latency=4.39s, 10MB=2.74s, speed=3.655MB/s, score=0.833
+47.90.167.27:8081 (http)  # latency=4.96s, 10MB=3.65s, speed=2.737MB/s, score=0.552
+185.41.152.110:3128 (http)  # latency=2.04s, 10MB=42.91s, speed=0.233MB/s, score=0.114
+47.91.121.127:8081 (http)  # latency=2.68s, 10MB=2.60s, speed=3.839MB/s, score=1.43
+103.94.52.70:3128 (http)  # latency=2.71s, 10MB=60.64s, speed=0.165MB/s, score=0.061
+165.154.36.27:10002 (http)  # latency=3.26s, 10MB=30.69s, speed=0.326MB/s, score=0.1
+38.250.126.201:999 (http)  # latency=0.94s, 10MB=20.91s, speed=0.478MB/s, score=0.51
+4.156.78.45:80 (http)  # latency=0.35s, 10MB=2.45s, speed=4.083MB/s, score=11.561
+147.28.240.215:9401 (http)  # latency=0.41s, 10MB=4.36s, speed=2.295MB/s, score=5.598
+164.163.42.43:10000 (http)  # latency=1.83s, 10MB=7.70s, speed=1.298MB/s, score=0.709
+4.245.123.244:80 (http)  # latency=0.50s, 10MB=2.51s, speed=3.991MB/s, score=7.96
+61.29.96.146:80 (http)  # latency=9.49s, 10MB=54.11s, speed=0.185MB/s, score=0.02
+89.38.129.15:3128 (http)  # latency=2.97s, 10MB=1.04s, speed=9.589MB/s, score=3.223
+8.215.15.163:104 (http)  # latency=3.92s, 10MB=10.37s, speed=0.964MB/s, score=0.246
+141.98.153.86:80 (http)  # latency=2.10s, 10MB=2.44s, speed=4.106MB/s, score=1.96
+147.28.240.218:80 (http)  # latency=0.48s, 10MB=4.60s, speed=2.175MB/s, score=4.526
+154.118.231.30:80 (http)  # latency=5.93s, 10MB=9.38s, speed=1.066MB/s, score=0.18
+78.47.127.91:80 (http)  # latency=0.44s, 10MB=4.06s, speed=2.463MB/s, score=5.552
+54.236.37.53:80 (http)  # latency=2.08s, 10MB=2.55s, speed=3.917MB/s, score=1.88
+159.65.245.255:80 (http)  # latency=1.03s, 10MB=3.99s, speed=2.505MB/s, score=2.437
+181.215.253.118:5001 (http)  # latency=1.07s, 10MB=10.30s, speed=0.971MB/s, score=0.905
+91.239.7.71:80 (http)  # latency=0.52s, 10MB=1.34s, speed=7.458MB/s, score=14.442
+158.255.212.55:9745 (http)  # latency=0.62s, 10MB=4.05s, speed=2.467MB/s, score=3.953
+91.239.7.69:80 (http)  # latency=0.58s, 10MB=4.04s, speed=2.477MB/s, score=4.248
+158.255.212.55:10434 (http)  # latency=0.58s, 10MB=4.66s, speed=2.147MB/s, score=3.72
+158.255.212.55:11857 (http)  # latency=0.54s, 10MB=4.74s, speed=2.108MB/s, score=3.88
+116.203.107.220:80 (http)  # latency=0.67s, 10MB=4.74s, speed=2.111MB/s, score=3.149
+158.255.212.55:9005 (http)  # latency=0.50s, 10MB=5.41s, speed=1.847MB/s, score=3.713
+211.75.95.66:3128 (http)  # latency=0.72s, 10MB=0.52s, speed=19.113MB/s, score=26.698
+154.16.146.41:80 (http)  # latency=0.98s, 10MB=2.26s, speed=4.435MB/s, score=4.548
+164.163.42.14:10000 (http)  # latency=1.72s, 10MB=5.12s, speed=1.951MB/s, score=1.133
+154.16.146.47:80 (http)  # latency=0.68s, 10MB=1.89s, speed=5.286MB/s, score=7.739
+164.163.40.110:10000 (http)  # latency=1.56s, 10MB=5.99s, speed=1.668MB/s, score=1.068
+154.16.146.43:80 (http)  # latency=0.50s, 10MB=2.12s, speed=4.72MB/s, score=9.514
+154.16.146.45:80 (http)  # latency=0.36s, 10MB=3.97s, speed=2.517MB/s, score=7.068
+123.141.181.31:5031 (http)  # latency=2.29s, 10MB=7.41s, speed=1.35MB/s, score=0.589
+164.163.42.45:10000 (http)  # latency=0.85s, 10MB=5.36s, speed=1.866MB/s, score=2.207
+164.163.42.6:10000 (http)  # latency=0.99s, 10MB=5.97s, speed=1.675MB/s, score=1.691
+154.16.146.42:80 (http)  # latency=0.46s, 10MB=3.52s, speed=2.841MB/s, score=6.149
+164.163.42.56:10000 (http)  # latency=1.49s, 10MB=6.46s, speed=1.548MB/s, score=1.041
+164.163.40.14:10000 (http)  # latency=1.13s, 10MB=6.58s, speed=1.519MB/s, score=1.35
+164.163.42.17:10000 (http)  # latency=1.01s, 10MB=7.00s, speed=1.429MB/s, score=1.415
+185.59.100.55:1080 (socks5)  # latency=1.10s, 10MB=3.04s, speed=3.288MB/s, score=2.977
+164.163.43.102:10000 (http)  # latency=1.27s, 10MB=7.17s, speed=1.394MB/s, score=1.095
+89.58.45.94:34732 (http)  # latency=2.68s, 10MB=13.44s, speed=0.744MB/s, score=0.277
+154.16.146.48:80 (http)  # latency=0.30s, 10MB=1.97s, speed=5.088MB/s, score=16.949
+18.60.146.88:57355 (http)  # latency=0.74s, 10MB=0.75s, speed=13.29MB/s, score=17.881
+20.204.43.57:80 (http)  # latency=2.01s, 10MB=14.83s, speed=0.674MB/s, score=0.335
+154.16.146.44:80 (http)  # latency=0.42s, 10MB=2.78s, speed=3.598MB/s, score=8.48
+104.248.203.234:1080 (socks5)  # latency=1.45s, 10MB=3.15s, speed=3.173MB/s, score=2.187
+154.16.146.46:80 (http)  # latency=0.38s, 10MB=2.14s, speed=4.666MB/s, score=12.418
+45.186.6.104:3128 (http)  # latency=1.10s, 10MB=22.45s, speed=0.445MB/s, score=0.405
+64.227.131.240:1080 (socks5)  # latency=6.08s, 10MB=10.54s, speed=0.949MB/s, score=0.156
+206.189.57.182:1080 (socks5)  # latency=1.63s, 10MB=3.63s, speed=2.758MB/s, score=1.688
+159.65.128.194:1080 (socks5)  # latency=5.81s, 10MB=6.84s, speed=1.463MB/s, score=0.252
+195.88.71.201:8888 (http)  # latency=0.39s, 10MB=152.36s, speed=0.066MB/s, score=0.169
+134.199.159.23:1080 (socks5)  # latency=1.79s, 10MB=5.08s, speed=1.97MB/s, score=1.098
+8.213.134.213:30000 (http)  # latency=6.07s, 10MB=3.81s, speed=2.623MB/s, score=0.432
+143.110.217.153:1080 (socks5)  # latency=8.94s, 10MB=8.74s, speed=1.144MB/s, score=0.128
+154.205.147.234:1080 (socks5)  # latency=6.75s, 10MB=6.68s, speed=1.498MB/s, score=0.222
+143.110.190.60:1080 (socks5)  # latency=7.41s, 10MB=9.14s, speed=1.094MB/s, score=0.148
+27.254.217.116:8081 (http)  # latency=1.68s, 10MB=56.69s, speed=0.176MB/s, score=0.104
+161.35.82.57:1080 (socks5)  # latency=7.51s, 10MB=9.43s, speed=1.061MB/s, score=0.141
+47.91.104.88:3128 (http)  # latency=8.60s, 10MB=107.06s, speed=0.093MB/s, score=0.011
+192.241.156.17:1080 (socks5)  # latency=7.92s, 10MB=10.80s, speed=0.926MB/s, score=0.117
+185.191.236.162:3128 (http)  # latency=0.63s, 10MB=4.24s, speed=2.357MB/s, score=3.733
+27.71.141.120:16000 (http)  # latency=3.75s, 10MB=6.00s, speed=1.666MB/s, score=0.444
+37.187.109.70:10111 (http)  # latency=5.42s, 10MB=46.86s, speed=0.213MB/s, score=0.039
+144.76.159.121:8084 (http)  # latency=0.38s, 10MB=4.83s, speed=2.07MB/s, score=5.397
+144.76.159.121:8082 (http)  # latency=0.60s, 10MB=4.70s, speed=2.129MB/s, score=3.56
+144.76.159.121:8085 (http)  # latency=0.37s, 10MB=5.23s, speed=1.911MB/s, score=5.232
+103.214.109.66:80 (http)  # latency=6.16s, 10MB=3.74s, speed=2.674MB/s, score=0.434
+147.28.240.213:9443 (http)  # latency=0.33s, 10MB=9.03s, speed=1.108MB/s, score=3.408
+103.169.254.155:1080 (socks5)  # latency=6.12s, 10MB=39.12s, speed=0.256MB/s, score=0.042
+103.56.113.176:8888 (http)  # latency=1.71s, 10MB=214.66s, speed=0.047MB/s, score=0.027
+42.96.16.176:1312 (http)  # latency=1.29s, 10MB=1199.22s, speed=0.008MB/s, score=0.006

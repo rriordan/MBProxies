@@ -9,10 +9,10 @@ GOOD_FILE = "working-fast.txt"
 BAD_FILE = "bad.txt"
 CSV_FILE = "results.csv"
 TEST_URL = "http://ipv4.download.thinkbroadband.com/100MB.zip"
-TIMEOUT = 10  # seconds
-CHUNK_SIZE = 1024  # 1 KB
-MAX_BYTES = 500 * 1024  # 500 KB
-MAX_THREADS = 50
+TIMEOUT = 11  # seconds
+CHUNK_SIZE = 64 * 1024  # 64 KB
+MAX_BYTES = 10 * 1024 * 1024  # 10 MB
+MAX_THREADS = 125
 
 good = []
 bad = []
@@ -43,7 +43,7 @@ def test_proxy(proxy):
         if r.status_code != 200:
             raise Exception(f"Non-200 HEAD response: {r.status_code}")
 
-        # GET request for download speed
+        # GET request for download speed (10MB)
         start_download = time()
         r = requests.get(TEST_URL, proxies=proxy_dict, timeout=TIMEOUT, stream=True)
         downloaded = 0
@@ -53,9 +53,12 @@ def test_proxy(proxy):
                 break
         download_time = time() - start_download
 
-        print(f"[+] {proxy} ({scheme}) - Latency: {latency:.2f}s - DL 500KB in {download_time:.2f}s")
-        good.append(f"{proxy} ({scheme})  # latency={latency:.2f}s, 500KB={download_time:.2f}s")
-        csv_rows.append([proxy, scheme, round(latency, 3), round(download_time, 3)])
+        speed_mbps = round(10 / download_time, 3)
+        score = round(speed_mbps / latency, 3) if latency > 0 else 0
+
+        print(f"[+] {proxy} ({scheme}) - Latency: {latency:.2f}s - 10MB in {download_time:.2f}s - {speed_mbps} MB/s - Score: {score}")
+        good.append(f"{proxy} ({scheme})  # latency={latency:.2f}s, 10MB={download_time:.2f}s, speed={speed_mbps}MB/s, score={score}")
+        csv_rows.append([proxy, scheme, round(latency, 3), round(download_time, 3), speed_mbps, score])
 
     except Exception as e:
         print(f"[x] {proxy} ({scheme}) - FAIL: {e}")
@@ -76,7 +79,7 @@ def main():
 
     with open(CSV_FILE, "w", newline="") as f:
         writer = csv.writer(f)
-        writer.writerow(["Proxy", "Type", "Latency (s)", "Download Time (s)"])
+        writer.writerow(["Proxy", "Type", "Latency (s)", "10MB Download Time (s)", "Speed (MB/sec)", "Score"])
         writer.writerows(csv_rows)
 
     print(f"\n✅ FINISHED: {len(good)} good, {len(bad)} bad proxies")
