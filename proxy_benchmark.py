@@ -13,8 +13,8 @@ GOOD_FILE = "working-fast.txt"
 BAD_FILE = "bad.txt"
 TEST_URL = "http://ipv4.download.thinkbroadband.com/100MB.zip"
 CHUNK_RANGE = "bytes=0-10485759"  # First 10MB
-TIMEOUT = 10
-MAX_THREADS = 100
+TIMEOUT = 8
+MAX_THREADS = 125
 
 good, bad, csv_rows = [], [], []
 
